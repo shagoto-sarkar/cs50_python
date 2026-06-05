@@ -1,3 +1,7 @@
+#Lists are sequence of mutable value
+#Items are not unique
+#can add and remove Items
+
 names= ["shagoto","oni","himu","osman","noman"] #To create a list
 
 #print(names[0]) #to view first item
